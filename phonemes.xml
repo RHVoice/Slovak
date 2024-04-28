@@ -1,5 +1,6 @@
 <phonemes>
-  <phoneme name="iii" son="+" approx="+" cons="-" vc="+" vheight="h" vfront="c" vrnd="-" high="+" low="-" front="-" back="-"/>
+  <phoneme name="iil" son="+" approx="+" cons="-" vc="+" vheight="h" vfront="c" vrnd="-" high="+" low="-" front="-" back="-"/>
+  <phoneme name="iir" son="+" approx="+" cons="-" vc="+" vheight="h" vfront="c" vrnd="-" high="+" low="-" front="-" back="-" cpal="-"/>
   <phoneme name="ax" son="+" approx="+" cons="-" vc="+" vheight="m" vfront="c" vrnd="-" high="-" low="-" front="-" back="-"/>
   <phoneme name="a" vc="+" vheight="1" vfront="2" vrnd="-" vlng="s"/>
   <phoneme name="aa" vc="+" vheight="2" vfront="3" vrnd="+" vlng="l"/>
@@ -8,7 +9,7 @@
   <phoneme name="c" vc="-" son="-" cont="-" ctype="a" csib="+" cor="+" cplace="a" cvox="-" cpal="-" vpair="dz"/>
   <phoneme name="ts" vc="-" son="-" cont="-" ctype="a" csib="+" cor="+" cplace="p" cvox="-" cpal="-" vpair="dzh"/>
   <phoneme name="d" vc="-" son="-" cont="-" ctype="s" cor="+" cplace="a" cvox="+" cpal="-" vpair="t"/>
-  <phoneme name="dj" vc="-" son="-" cont="-" ctype="s" cor="+" cplace="a" cvox="+" cpal="+" vpair="tj"/>
+  <phoneme name="dj" vc="-" son="-" cont="-" ctype="s" cor="+" cplace="a" cvox="+" cpal="-" vpair="tj"/>
   <phoneme name="dz" vc="-" son="-" cont="-" ctype="a" csib="+" cor="+" cplace="a" cvox="+" cpal="-" vpair="c"/>
   <phoneme name="dzh" son="-" vc="-" cont="-" ctype="a" csib="+" cor="+" cplace="p" cvox="+" cpal="-" vpair="ts"/>
   <phoneme name="e" vc="+" vheight="2" vfront="3" vrnd="-" vlng="s"/>
@@ -22,7 +23,7 @@
   <phoneme name="j" vc="-" son="+" cont="+" ctype="g" cplace="p" cvox="+" cpal="+"/>
   <phoneme name="k" vc="-" son="-" cont="-" ctype="s" cplace="v" cvox="-" cpal="-" vpair="g"/>
   <phoneme name="l" vc="-" son="+" cont="+" ctype="l" cplace="a" ccor="+" cvox="+"/>
-  <phoneme name="lj" vc="-" son="+" cont="+" ctype="l" cplace="a" ccor="+" cpal="+" cvox="+"/>
+  <phoneme name="lj" vc="-" son="+" cont="+" ctype="l" cplace="a" ccor="+" cvox="+"/>
   <phoneme name="ll" vc="-" son="+" cont="+" ctype="l" cplace="a" ccor="+" cvox="+"/>
   <phoneme name="m" vc="-" son="+" cont="-" ctype="n" cplace="l" clab="+" cvox="+" cpal="-"/>
   <phoneme name="n" vc="-" son="+" cont="-" ctype="n" cplace="a" ccor="+" cvox="+" cpal="-"/>
@@ -37,7 +38,7 @@
   <phoneme name="s" vc="-" son="-" cont="+" ctype="f" csib="+" cor="+" cplace="a" cvox="-" vpair="z" cpal="-"/>
   <phoneme name="sh" vc="-" son="-" cont="+" ctype="f" csib="+" cor="+" cplace="p" cvox="-" vpair="zh" cpal="-"/>
   <phoneme name="t" vc="-" son="-" cont="-" ctype="s" cor="+" cplace="a" cvox="-" vpair="d" cpal="-"/>
-  <phoneme name="tj" vc="-" son="-" cont="-" ctype="s" cor="+" cplace="a" cvox="-" vpair="dj" cpal="+"/>
+  <phoneme name="tj" vc="-" son="-" cont="-" ctype="s" cor="+" cplace="a" cvox="-" vpair="dj" cpal="-"/>
   <phoneme name="u" vc="+" vheight="3" vfront="1" vrnd="+" vlng="s"/>
   <phoneme name="uu" vc="+" vheight="3" vfront="1" vrnd="+" vlng="l"/>
   <phoneme name="ou" vc="+" vheight="3" vfront="1" vrnd="+" vlng="l"/>
